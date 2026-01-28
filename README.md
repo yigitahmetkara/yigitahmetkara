@@ -39,6 +39,3 @@ UX: Kullanıcı etkileşimine anlık tepki veren, akıcı ve modern bir arayüz 
 İlgi Alanları: Mobil Uygulama Geliştirme,Yazılım Mimarisi, NoSQL Sistemler, Savunma Teknolojileri.
 Slogan: "Daha temiz kod, daha güçlü gelecek.
 
-Profilin bu haliyle seni tam bir "T-Shaped" mühendis (bir alanda uzman, birçok alanda bilgili) olarak gösterecektir.
-
-Bu metni GitHub'a ekledikten sonra, Set Game projesindeki o meşhur kart dağıtma animasyonunun kodlarına geçmeye ha
