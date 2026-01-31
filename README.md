@@ -37,5 +37,5 @@ UX: Kullanıcı etkileşimine anlık tepki veren, akıcı ve modern bir arayüz 
 
 📫 Benimle İletişime Geçin
 İlgi Alanları: Mobil Uygulama Geliştirme,Yazılım Mimarisi, NoSQL Sistemler, Savunma Teknolojileri.
-Slogan: "Daha temiz kod, daha güçlü gelecek.
+Slogan: Geleceğin Savunma Hattını Yazılımın Gücüyle İnşa Ediyorum.
 
